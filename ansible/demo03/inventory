@@ -1,11 +1,8 @@
-10.128.0.3
-10.128.0.7
-10.128.0.2
+vowkg64758dns0.eastus2.cloudapp.azure.com
 
 [dc]
-10.128.0.3
-10.128.0.7
+vowkg64758dns0.eastus2.cloudapp.azure.com
 
 [dc:vars]
 ansible_ssh_user=root
-ansible_ssh_pass=redhat@123
+ansible_ssh_pass=Anand@1611
