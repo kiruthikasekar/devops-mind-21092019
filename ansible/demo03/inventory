@@ -4,5 +4,5 @@ vowkg64758dns0.eastus2.cloudapp.azure.com
 vowkg64758dns0.eastus2.cloudapp.azure.com
 
 [dc:vars]
-ansible_ssh_user=root
+ansible_ssh_user=devopsinfra
 ansible_ssh_pass=Anand@1611
